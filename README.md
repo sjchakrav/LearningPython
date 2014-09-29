@@ -1,4 +1,4 @@
-LearningPython
+Learning Python
 ==============
 
-Exercises and more
+Exercises and Observations
