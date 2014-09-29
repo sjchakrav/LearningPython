@@ -1,0 +1,4 @@
+LearningPython
+==============
+
+Exercises and more
