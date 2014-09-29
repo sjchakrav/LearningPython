@@ -1,6 +1,6 @@
 /* 
-Create a program that prints "Fizz" fizz for multiples of 3, "buzz" for multiples #of 5, 
-"FizzBuzz" for multiples of 3 AND 5, and the actual raw number itself for #everything else 
+Create a program that prints "Fizz" fizz for multiples of 3, "buzz" for multiples of 5, 
+"FizzBuzz" for multiples of 3 AND 5, and the actual raw number itself for everything else 
 within the range of 1-100 
 */
 
