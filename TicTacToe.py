@@ -61,6 +61,7 @@ while game_over != True:
             print "\n"
             if pos <=9 and pos >=1: #the condition that checks that number entered is between the bounds of 1-9
                 #we then get the x and y value from the player and see if the position they chose is empty
+                #the /3 and %3 correspond to the positions on the board for the x and y positions. Y would correspond to 0,1,2,3 and X would correspond to 0,1,2,
                 Y = pos / 3 
                 X = pos % 3
                 if X != 0:  
