@@ -2,8 +2,8 @@
 def print_board():
     for i in range(0,3): #the board will be 3x3 indicated by the range
         for x in range(0,3):
-            print board[2-i][x],
-            if x != 2:
+            print board[2-i][x], #the 2-i is used to inverse the value of the boards so that the lowest numbers (1,2,3) are listed at the bottom of the board instead of at the top
+            if x != 2: # this condition is needed to ensure the | prints after each square and not every line
                     print " | ",
         print " "
 
